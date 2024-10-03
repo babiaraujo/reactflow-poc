@@ -1,5 +1,5 @@
 Objetivo
-Essa POC (demonstra como utilizar o React Flow para criar diagramas interativos, com funcionalidades de:
+Essa POC demonstra como utilizar o React Flow para criar diagramas interativos, com funcionalidades de:
 Adicionar Node: Clique no botão "Adicionar Node" para criar novos nós no diagrama.
 Deletar Nodes/Arestas: Selecione nós ou arestas e pressione delete para removê-los.
 Salvar Estado: O estado atual do diagrama (nós e arestas) pode ser salvo e visualizado no console.
