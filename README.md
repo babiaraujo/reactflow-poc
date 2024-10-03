@@ -13,3 +13,6 @@ React Flow
 Pré-requisitos
 Node.js instalado (versão >= 12.0.0)
 npm ou yarn# reactflow-poc
+
+![image](https://github.com/user-attachments/assets/76d19376-c4cc-451c-95fe-46f912b5584c)
+
